@@ -1,0 +1,25 @@
+{
+  "statuses": [
+    {
+      "id": 0,
+      "name": "Unread"
+    },
+    {
+      "id": 1,
+      "name": "Read"
+    },
+    {
+
+      "id": 2,
+      "name": "Low Priority"
+    },
+    {
+      "id": 3,
+      "name": "Medium Priority"
+    },
+    {
+      "id": 4,
+      "name": "High Priority"
+    }
+  ]
+}
